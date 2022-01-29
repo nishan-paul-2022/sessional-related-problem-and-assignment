@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1631825839 source:e:\code\c++\sessional\graphics_lab5_midpoint_ellipse_online\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+
+1631006332 d:\c-part-2\mingw\mingw32\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+

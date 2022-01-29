@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1631824918 source:e:\code\c++\sessional\graphics_lab1_rectangle_using_dda_algorithm_offline\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+
+1631006332 d:\c-part-2\mingw\mingw32\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+

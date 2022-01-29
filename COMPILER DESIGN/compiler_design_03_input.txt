@@ -1,0 +1,7 @@
+char[] *sports = {
+                      "golf",
+                      "hockey",
+                      "football",
+                      "cricket",
+                      "shooting"
+                  };

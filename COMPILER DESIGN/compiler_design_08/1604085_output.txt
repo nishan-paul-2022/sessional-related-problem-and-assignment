@@ -1,0 +1,90 @@
+This is Pre-processor directive: #include <stdio.h>
+
+This is Keyword: int
+
+This is Function: main(
+
+This is Delimiter: )
+
+This is Delimiter: {
+
+This is Keyword: int
+
+This is Identifier: number
+
+This is Delimiter: ;
+
+This is Function: printf(
+
+this is String:"Enter an integer: "
+
+This is Delimiter: )
+
+This is Delimiter: ;
+
+This is Function: scanf(
+
+this is String:"%d"
+
+This is Delimiter: ,
+
+This is Special Characters: &
+
+This is Identifier: number
+
+This is Delimiter: )
+
+This is Delimiter: ;
+
+this is single line Commments: // true if number is less than 0
+
+This is Keyword: if
+
+This is Delimiter: (
+
+This is Identifier: number
+
+This is Relational Operator: <
+
+This is Integer: 0
+
+This is Delimiter: )
+
+This is Delimiter: {
+
+This is Function: printf(
+
+this is String:"You entered %d.\n"
+
+This is Delimiter: ,
+
+This is Identifier: number
+
+This is Delimiter: )
+
+This is Delimiter: ;
+
+This is Delimiter: }
+
+This is Function: printf(
+
+this is String:"The if statement is easy."
+
+This is Delimiter: )
+
+This is Delimiter: ;
+
+This is Keyword: return
+
+This is Integer: 0
+
+This is Delimiter: ;
+
+This is Delimiter: }
+
+
+
+
+
+
+Total Tokens = 42

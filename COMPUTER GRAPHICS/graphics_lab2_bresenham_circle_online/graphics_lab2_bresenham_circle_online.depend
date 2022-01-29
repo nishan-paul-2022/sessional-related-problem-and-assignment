@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1631824972 source:e:\code\c++\sessional\graphics_lab2_bresenham_circle_online\main.cpp
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	<GL/glut.h>
+
+1631006332 d:\c-part-2\mingw\mingw32\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
